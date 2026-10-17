@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://duplex-del-bosque---solo-parejas.vercel.app/sitemap.xml
